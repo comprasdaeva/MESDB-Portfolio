@@ -204,7 +204,6 @@ span{
     text-align: center;
     border: .2rem solid var(--bg-color);
     transition: .5s ease;
-    height: 70vh;
 }
 
 .cursos-container .cursos-box:hover{
@@ -252,7 +251,6 @@ span{
     box-shadow: 0 0 1rem var(--bg-color);
     overflow: hidden;
     display: flex;
-    height: 50vh;
 }
 
 .proyectos-box img{
@@ -431,21 +429,11 @@ span{
     .proyectos-container{
         grid-template-columns: 1fr;
     }
-    
-    .cursos-container .cursos-box{    
-    height: none;
-    }
 }
 
 @media (max-width: 450px){
     html {
         font-size: 48%;
-    }
-    .proyectos-container .proyectos-box{    
-    height: 20vh;
-    }
-    .cursos-container .cursos-box{    
-    height: none;
     }
 }
 
@@ -460,11 +448,5 @@ span{
 
     .footer p{
         text-align: center;
-    }
-    .proyectos-container .proyectos-box{    
-    height: 20vh;
-    }
-    .cursos-container .cursos-box{    
-    height: none;
     }
 }
