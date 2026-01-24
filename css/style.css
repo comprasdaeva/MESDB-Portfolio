@@ -432,6 +432,9 @@ span{
         grid-template-columns: 1fr;
     }
     
+    .cursos-container .cursos-box{    
+    height: none;
+    }
 }
 
 @media (max-width: 450px){
