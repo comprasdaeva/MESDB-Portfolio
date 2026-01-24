@@ -327,7 +327,7 @@ span{
         font-size: 55%;
     }
     .proyectos-container .proyectos-box{    
-    height: none;
+    height: 20vh;
     }
     .cursos-container .cursos-box{    
     height: none;
@@ -355,7 +355,7 @@ span{
         padding: 2rem 3%;
     }
     .proyectos-container .proyectos-box{    
-    height: none;
+    height: 20vh;
     }
     .cursos-container .cursos-box{    
     height: none;
@@ -444,7 +444,7 @@ span{
         grid-template-columns: 1fr;
     }
     .proyectos-container .proyectos-box{    
-    height: none;
+    height: 20vh;
     }
     .cursos-container .cursos-box{    
     height: none;
@@ -456,7 +456,7 @@ span{
         font-size: 48%;
     }
     .proyectos-container .proyectos-box{    
-    height: none;
+    height: 20vh;
     }
     .cursos-container .cursos-box{    
     height: none;
@@ -476,7 +476,7 @@ span{
         text-align: center;
     }
     .proyectos-container .proyectos-box{    
-    height: none;
+    height: 20vh;
     }
     .cursos-container .cursos-box{    
     height: none;
