@@ -204,6 +204,7 @@ span{
     text-align: center;
     border: .2rem solid var(--bg-color);
     transition: .5s ease;
+    height: 70vh;
 }
 
 .cursos-container .cursos-box:hover{
@@ -251,6 +252,7 @@ span{
     box-shadow: 0 0 1rem var(--bg-color);
     overflow: hidden;
     display: flex;
+    height: 50vh;
 }
 
 .proyectos-box img{
